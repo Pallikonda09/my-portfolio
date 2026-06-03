@@ -54,7 +54,7 @@ export const projects = [
       "A complete e-commerce system with cart, checkout, REST APIs with authentication and validation, and a scalable MongoDB schema. Frontend and backend deployed separately for performance.",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "REST API"],
     github: "https://github.com/Pallikonda09",
-    live: "https://e-comfrotend.netlify.app/",
+    live: "https://ecomerce-ap.netlify.app/
     featured: true,
   },
 ];
